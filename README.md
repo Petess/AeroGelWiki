@@ -10,3 +10,6 @@ The name comes from Aero Gel - the lightest substance around.
 - Write a lambda that takes Markdown from one S3 bucket and processes it into HTML in another for statically serving the wiki
 - Get one of the JS Markdown editors to read a file from one S3 bucket and write back into it 
 - Create the terraform code for the whole setup 
+
+# Links
+- https://read.acloud.guru/how-to-add-file-upload-features-to-your-website-with-aws-lambda-and-s3-48bbe9b83eaa
